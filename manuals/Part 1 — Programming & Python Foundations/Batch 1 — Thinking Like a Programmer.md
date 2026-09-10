@@ -477,7 +477,7 @@ Write the problems in plain English.
 Now take:
 
 > **Build a Wallet App.**
-
+p
 Break it into at least **7 smaller problems**.
 
 Think beyond simply:
@@ -1393,7 +1393,7 @@ Someone designed this process for spending money:
 5. Display the new balance.
 ```
 
-### Your Mission
+### Your Mission  git config --global user.name "Your Name"
 
 Find the problem.
 
