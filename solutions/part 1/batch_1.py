@@ -32,22 +32,31 @@
 
 
 
-🧠 Practice 3 — IPO Thinking
+# 🧠 Practice 3 — IPO Thinking
+# For each scenario, identify:
+# Input
+# Process
+# Output
 
-For each scenario, identify:
 
-Input
-Process
-Output
-A. Wallet Deposit
+# A. Wallet Deposit
+# A user wants to add money to their wallet.
 
-A user wants to add money to their wallet.
+# Input: the amount to  deposit
+# Process: add deposited amount to current balance 
+# Output: the new balance after adding deposit to current balance   
 
-Input:
-Process:
-Output:  
+# B. Store Purchase
+# A customer buys 4 products at ₦2,000 each.
 
- SOLUTION 
-1  the amount to  deposits 
-2 add to deposited amount to currcet balance 
-3  the balance after transation  
+# Input: 4 products each at #2,000
+# Process: 4 products * #2,000
+# Output:  total 8,000# C. Wallet Spending
+
+# C. Wallet Spending
+# A user has ₦50,000 and attempts to spend ₦15,000.
+
+# ```text
+# Input: Balance: 50,000 and amount to spend 15,000
+# Process:50,000 - 15,000
+# Output:total amount 35,000
