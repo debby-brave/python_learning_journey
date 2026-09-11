@@ -744,22 +744,7 @@ Later, Python will turn these ideas into actual instructions.
 
 ---
 
-# 🥋 Practice 4 — Write an Algorithm
-
-Write a step-by-step algorithm for:
-
-> **Checking your Wallet balance.**
-
-Minimum:
-
-```text
-1.
-2.
-3.
-4.
-```
-
-Don't use Python.
+#
 
 Use normal language.
 
@@ -804,7 +789,22 @@ It doesn't have strict syntax.
 Problem:
 
 > Add money to a wallet.
+ 🥋 Practice 4 — Write an Algorithm
 
+Write a step-by-step algorithm for:
+
+> **Checking your Wallet balance.**
+
+Minimum:
+
+```text
+1.
+2.
+3.
+4.
+```
+
+Don't use Python.
 Pseudocode:
 
 ```text

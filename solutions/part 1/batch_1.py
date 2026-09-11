@@ -60,3 +60,24 @@
 # Input: Balance: 50,000 and amount to spend 15,000
 # Process:50,000 - 15,000
 # Output:total amount 35,000
+
+
+#  🥋 Practice 4 — Write an Algorithm
+
+# Write a step-by-step algorithm for:
+
+# > **Checking your Wallet balance.**
+
+# Minimum:
+
+# text
+# 1. open your app
+# 2. enter the pin
+# 3.app verifies pin
+# 4. app retrieves balance
+# 5. app display balance 
+
+
+
+
+
